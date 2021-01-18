@@ -1,0 +1,1 @@
+# get-query-string-value-using-javascript
